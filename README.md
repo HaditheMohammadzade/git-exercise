@@ -24,3 +24,5 @@
 ## ۸ -دستور add remote git چه کاری انجام میدهد و چه کاربردی دارد؟
 یک remote در گیت یک repository مشترک است که همه اعضای تیم به آن دسترسی دارند و از آن برای تبادل تغییرات خود استفاده میکنند. این repository ها معمولا در hosting service هایی مانند github ذخیره میشوند. برای افزودن یک remote از این دستور استفاده میشود.
 
+## ۹ -دستور push git چه کاری انجام میدهد؟
+دستور git push برای اپلود محتوای یک local repository در یک remote repository استفاده میشود. درواقع pushing نحوه انتقال commit ها از local repo به rempote repo است.
