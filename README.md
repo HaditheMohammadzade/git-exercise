@@ -26,3 +26,6 @@
 
 ## ۹ -دستور push git چه کاری انجام میدهد؟
 دستور git push برای اپلود محتوای یک local repository در یک remote repository استفاده میشود. درواقع pushing نحوه انتقال commit ها از local repo به rempote repo است.
+
+## ۱۰ -دستور pull git چه کاری انجام میدهد و برای چه استفاده میشود؟
+دستور git pull برای دانلود محتوا از یک remote repo و بروز رسانی  local repo و مطابقت با آن محتوا استفاده میشود.
